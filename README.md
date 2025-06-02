@@ -1,7 +1,9 @@
 
 網站 Demo 影片
 
-https://cdn.jsdelivr.net/gh/meqsora/phpDemoCSW/demo.mp4
+https://github.com/user-attachments/assets/0343a0d2-e147-4a46-9fcd-bb120a228d54
+
+
 
 # 說明
 
