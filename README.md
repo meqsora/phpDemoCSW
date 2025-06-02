@@ -1,7 +1,7 @@
 
-## 💻 網站 Demo 影片
+網站 Demo 影片
 
-📽 [▶ 點這裡播放 Demo](https://cdn.jsdelivr.net/gh/meqsora/phpDemoCSW/demo.mp4)
+https://cdn.jsdelivr.net/gh/meqsora/phpDemoCSW/demo.mp4
 
 # 說明
 
