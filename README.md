@@ -1,4 +1,8 @@
 
+## 💻 網站 Demo 影片
+
+📽 [▶ 點這裡播放 Demo](https://cdn.jsdelivr.net/gh/meqsora/phpDemoCSW/demo.mp4)
+
 # 說明
 
 試作的電腦零件購物網站，有使用者的登入、註冊、登出、瀏覽零件商品、購物車功能
