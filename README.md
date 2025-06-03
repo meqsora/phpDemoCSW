@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/0343a0d2-e147-4a46-9fcd-bb120a228d54
 
 資料庫使用PDO SQlite，用init_db.php會建立三個資料表：商品分類、商品、用戶（包含管理員）
 
-# 使用語言工具
+# 使用的程式語言工具
 
 前端：HTML、CSS、JavaScript 後端：php
 
